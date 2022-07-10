@@ -1,1 +1,1 @@
-astasdad
+web: python main.py
